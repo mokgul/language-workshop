@@ -8,7 +8,7 @@
 📁 [book-exercises-csharp](https://github.com/mokgul/book-exercises-csharp)
 
 ### 🔴 Front-End
-📁 [book-exercises-angular](https://github.com/mokgul/book-exercises-react)
+📁 [book-exercises-react](https://github.com/mokgul/book-exercises-react)
 
 ---
 
